@@ -51,7 +51,7 @@ knowledge-assistant/
 
 - Node.js 18+
 - MongoDB (local or Atlas)
-- Gemini API key ([Get one here](https://aistudio.google.com/app/apikey))
+- Gemini API key
 
 ### Backend Setup
 
@@ -204,6 +204,5 @@ This approach:
 
 ## Notes
 
-- The Gemini API has rate limits. If you hit them, wait a minute and try again.
-- For better retrieval results, make sure document content is detailed and includes relevant keywords.
+- The Gemini API has rate limits. If you hit them, wait a minute and try again. (Becuse I Faced This Problem)
 - Tags help with search - use descriptive tags when adding documents.
