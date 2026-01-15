@@ -1,0 +1,19 @@
+{
+  "name": "knowledge-assistant-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Knowledge Assistant with RAG-based Q&A",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.5.0",
+    "multer": "^2.0.2",
+    "pdf-parse": "^1.1.1"
+  }
+}
