@@ -204,5 +204,4 @@ This approach:
 
 ## Notes
 
-- The Gemini API has rate limits. If you hit them, wait a minute and try again. (Becuse I Faced This Problem)
-- Tags help with search - use descriptive tags when adding documents.
+- The Gemini API has rate limits. If you hit them, wait a minute and try again. (Becuse I Faced This Problem).
